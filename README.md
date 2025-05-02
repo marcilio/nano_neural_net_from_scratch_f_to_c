@@ -10,3 +10,8 @@ I finally found some time to share this notebook I wrote a while back to teach n
 
 Feel free to mess with the code, add new layers, change the hyperparameters, etc., and see what happens. That's the best way to learn!
 
+**Learning Animation**
+
+The animation shows the nano neural network learning to convert Fahrenheit to Celsius through forward and backpropagation, adjusting its weights over multiple iterations.
+
+![Learning Animation](learning_animation.gif)
